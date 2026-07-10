@@ -38,7 +38,7 @@ Install these via **Arduino IDE → Sketch → Include Library → Manage Librar
 2. Before each test session, allow 2–3 minutes warm-up with power applied.
 3. Observe baseline `sensorValue` readings via Serial Monitor (9600 baud) in clean air — this should be a low, stable number.
 4. Adjust the `THRESHOLD` constant in the code (default: `400`) based on your baseline and desired sensitivity.
-5. Use the onboard potentiometer on the MQ-3 module for coarse sensitivity adjustment if needed.
+5. Use the onboard potentiometer on the MQ-3 module for coarse sensitivity adjustment.
 
 ## How to Run
 1. Wire the components according to the pin configuration table above.
