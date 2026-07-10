@@ -46,7 +46,7 @@ Install these via **Arduino IDE → Sketch → Include Library → Manage Librar
 3. Select **Tools → Board → Arduino Uno** and the correct **Port**.
 4. Click **Upload**.
 5. Open **Serial Monitor** (9600 baud) to view live sensor readings.
-6. The LCD will display **"STATUS: SAFE"** under normal conditions and **"!! ALERT !!"** when alcohol is detected, with the relay cutting the ignition circuit accordingly.
+6. The LCD will display **"STATUS: SAFE"** under normal conditions and **" ALERT "** when alcohol is detected, with the relay cutting the ignition circuit accordingly.
 
 ## Author
 Final year project of engineering group 32.
