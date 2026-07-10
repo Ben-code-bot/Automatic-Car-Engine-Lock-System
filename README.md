@@ -51,3 +51,15 @@ Install these via **Arduino IDE → Sketch → Include Library → Manage Librar
 ## Author
 Final year project of engineering group 32.
 July,2026.
+## Group Members
+
+| Name | Registration Number |
+| :--- | :--- |
+| KABONGE BEN | 2024/DEE/DAY/1285/G |
+| BYOMUHANGI ABRAHAM | 2024/DEE/DAY/1291/G |
+| NAYEBARE FAVOUR | 2024/DEE/DAY/0382 |
+| KAMILA ANDREW | 2024/DEE/DAY/1525 |
+| MATOVU SHAFIK | 2024/DEE/DAY/1253/G |
+| NAKIGOZI ISABELLA | 2024/DEE/DAY/1786/G |
+
+---
