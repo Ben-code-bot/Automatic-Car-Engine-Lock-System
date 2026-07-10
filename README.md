@@ -34,7 +34,7 @@ Install these via **Arduino IDE → Sketch → Include Library → Manage Librar
 - `LiquidCrystal_I2C.h` (search "LiquidCrystal I2C" by Frank de Brabander)
 
 ## Calibration Instructions
-1. Power the MQ-3 sensor and allow a preheat/burn-in time of 20–24 hours before first use (semiconductor sensors need this for stable readings).
+1. Power the MQ-3 sensor and allow a preheat.
 2. Before each test session, allow 2–3 minutes warm-up with power applied.
 3. Observe baseline `sensorValue` readings via Serial Monitor (9600 baud) in clean air — this should be a low, stable number.
 4. Adjust the `THRESHOLD` constant in the code (default: `400`) based on your baseline and desired sensitivity.
